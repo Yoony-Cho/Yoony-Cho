@@ -1,7 +1,7 @@
 
 <h2 align='center'>
 <!--   Dev Saûros Yoony🦖 -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Dev+Saûros+Yoony!+🦖;&font=Kanit&size=30&weight=700Code&center=true&width=500&height=60&duration=3500&pause=1000&color=E9B12F">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Dev+Saûros+Yoony!+🦖;&font=Kanit&size=30&weight=700Code&center=true&width=500&height=60&duration=3500&pause=1000&color=B3741C">
 </h2>
 
 #### <div align="center">Hi there! I'm Yoony🙋‍♂️<div>
@@ -25,15 +25,16 @@
 
 ## &#x1f4c8; GitHub Stats
 <p align="center">
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoony-Cho&theme=gruvbox&show_icons=true" width="49.5%" />
+<a href="https://github.com/Yoony-Cho">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoony-Cho&theme=great-gatsby&show_icons=true" width="49.5%" />
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoony-Cho&&layout=compact&theme=gruvbox" width="49.5%"&height="150" />
+<a href="https://github.com/Yoony-Cho">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoony-Cho&&layout=compact&theme=great-gatsby" width="49.5%"&height="150" />
 </a>
+    
 </p>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yoony-Cho&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yoony-Cho&theme=merko)](https://github.com/Yoony-Cho)
 
  ## 📧 Contact Me
 <div>
