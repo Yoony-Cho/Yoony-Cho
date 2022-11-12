@@ -1,7 +1,7 @@
 
 <h2 align='center'>
 <!--   Dev Saûros Yoony🦖 -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Dev+Saûros+Yoony!+🦖;&font=Kanit&size=30&weight=700Code&center=true&width=500&height=60&duration=3500&pause=1000&color=282828">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Dev+Saûros+Yoony!+🦖;&font=Kanit&size=30&weight=700Code&center=true&width=500&height=60&duration=3500&pause=1000&color=E9B12F">
 </h2>
 
 #### <div align="center">Hi there! I'm Yoony🙋‍♂️<div>
