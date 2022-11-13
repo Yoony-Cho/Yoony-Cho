@@ -47,7 +47,7 @@
   <a href="https://instagram.com/jar__yoon/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>&nbsp;&nbsp;
-  <a href="https://www.notion.so/dev-sauros-yoony/">
+  <a href="https://www.notion.so/dev-sauros-yoony/Development-Logbook">
     <img src="https://img.shields.io/badge/blog-%23000000.svg?&style=for-the-badge&logo=Storyblok&logoColor=white" /> 
   </a>&nbsp;&nbsp;
 </div>
