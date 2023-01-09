@@ -34,7 +34,7 @@
     
 </p>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yoony-Cho&theme=merko)](https://github.com/Yoony-Cho)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yoony-Cho&theme=merko)](https://github.com/Yoony-Cho) -->
 
  ## 📧 Contact Me
 <div>
